@@ -1,5 +1,5 @@
 {
-  "name": "countdown_timer",
+  "name": "rk26_countdown_timer",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
